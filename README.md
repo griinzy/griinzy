@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/Age-18)
+
 ## Hi there 👋
 
 <!--
