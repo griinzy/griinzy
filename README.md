@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Age-18)
+![Static Badge](https://img.shields.io/badge/Age-18-D4AF37?style=flat)
 
 ## Hi there 👋
 
