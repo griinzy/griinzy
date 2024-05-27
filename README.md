@@ -1,5 +1,5 @@
-![Static Badge](https://img.shields.io/badge/Age-18-092416?style=flat)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=http%3A%2F%2Fgit.griinzy.co%2Fviews&query=views&prefix=Views&color=%23092416)
+![Static Badge](https://img.shields.io/badge/Age-18-41ba96?style=flat)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=http%3A%2F%2Fgit.griinzy.co%2Fviews&query=views&style=flat&label=Views&color=%2341ba96)
 
 ## Hi there 👋
 
