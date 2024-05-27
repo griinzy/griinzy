@@ -6,10 +6,10 @@
 <img align="left" width="30px" style="margin-right:8px" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
 <img align="left" width="30px" style="margin-right:8px" title="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" width="30px" style="margin-right:8px" title="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />      
-<img width="30px" style="margin-right:8px" title="Haskell" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />          
-<img width="30px" style="margin-right:8px" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-<img width=30 style="margin-right:8px" title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-<img width=30 style="margin-right:8px" title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" /> 
+<img align="left" width="30px" style="margin-right:8px" title="Haskell" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />          
+<img align="left" width="30px" style="margin-right:8px" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img align="left" width="30px" style="margin-right:8px" title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+<img align="left" width="30px" style="margin-right:8px" title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" /> 
 
 <!--
 **Griinzy/griinzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
