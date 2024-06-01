@@ -1,5 +1,10 @@
 ![Static Badge](https://img.shields.io/badge/Age-18-41ba96?style=flat)
+
+![](https://komarev.com/ghpvc/?username=griinzy&color=41ba96)
+
+<!--
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=http%3A%2F%2Fgit.griinzy.co%2Fviews&query=views&style=flat&label=Views&color=%2341ba96)
+-->
 
 ## Hi there 👋
 
