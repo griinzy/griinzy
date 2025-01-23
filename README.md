@@ -10,10 +10,7 @@
   ／l、             
 （ﾟ､ ｡ ７         
   l  ~ヽ       
-  じしf_,)ノ
-```
-
-<br>
+  じしf_,)ノ```
 
 <img align="left" width="30px" style="margin-right:8px" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
 <img align="left" width="30px" style="margin-right:8px" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />                    
