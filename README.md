@@ -4,8 +4,6 @@
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=http%3A%2F%2Fgit.griinzy.co%2Fviews&query=views&style=flat&label=Views&color=%2341ba96)
 -->
 
-## Hi there 👋
-
 ```
   ／l、             
 （ﾟ､ ｡ ７         
