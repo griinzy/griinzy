@@ -13,7 +13,7 @@
 
 <br>
 
-![Your stats](https://github-readme-stats.vercel.app/api/top-langs/?username=griinzy&hide=html&layout=compact)
+![Your stats](https://github-readme-stats.vercel.app/api/top-langs/?username=griinzy&hide=html&layout=compact&theme=github_dark_dimmed)
 
 
 <div>
