@@ -12,5 +12,3 @@
 ![Your stats](https://github-readme-stats.vercel.app/api/top-langs/?username=griinzy&hide=html&layout=compact&theme=github_dark_dimmed)
 
 <hr>
-
-[![Skills](https://skillicons.dev/icons?i=cs,cpp,nodejs,haskell,java,arduino,regex,sqlite,mysql,firebase&theme=light)](https://skillicons.dev)
