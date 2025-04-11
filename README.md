@@ -13,4 +13,4 @@
 
 <hr>
 
-[![Skills](https://skillicons.dev/icons?i=cs,cpp,nodejs,haskell,java,arduino,regex,sqlite,mysql,firebase&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cs,cpp,nodejs,haskell,java,arduino,regex,sqlite,mysql,firebase&theme=light)](https://skillicons.dev)
