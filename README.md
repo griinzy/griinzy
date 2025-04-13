@@ -7,8 +7,6 @@
   じしf_,)ノ
 ```
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 **`lang`** `csharp, cpp, java, nodejs, haskell`
 <br>
 **`  db  `** `mysql, sqlite, firebase`
