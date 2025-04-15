@@ -7,8 +7,9 @@
   じしf_,)ノ
 ```
 
-**`lang`** `csharp, cpp, java, nodejs, haskell`
+**`lang`** `csharp, cpp, java, js, haskell`
+**`tech`** `nodejs, asp.net`
 <br>
-**`  db  `** `mysql, sqlite, firebase`
+**`  db  `** `mysql, sqlite, firebase // entity framework`
 
 ![Your stats](https://github-readme-stats.vercel.app/api/top-langs/?username=griinzy&hide=html&layout=compact&theme=github_dark_dimmed)
